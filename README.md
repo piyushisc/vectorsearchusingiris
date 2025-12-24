@@ -11,3 +11,5 @@ Steps to follow:
 4. Invoke the command `do ##class(vectors.vectorstore).VectorSearch("search_terms")` with desired words to perform similarity search.
 IRIS will return top three closest match:
 ![alt text](image.png)
+
+This demo was put together in May 2024.
