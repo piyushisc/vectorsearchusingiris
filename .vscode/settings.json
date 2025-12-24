@@ -1,0 +1,7 @@
+{
+    "objectscript.conn": {
+        "active": true,
+        "server": "vectors",
+        "ns": "VECTORS"
+    }
+}
